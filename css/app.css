@@ -8,6 +8,15 @@
 
 }
 .upperimag{
-    position: absolute;
+    position: fixed;
     z-index: -1;
+}
+
+.upper{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.lower{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
 }
