@@ -3,7 +3,11 @@
 
 }*/
 .topwords{
-    z-index: 100;
+    z-index: ;
     text-align: right;
 
+}
+.upperimag{
+    position: absolute;
+    z-index: -1;
 }
