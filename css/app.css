@@ -90,4 +90,15 @@ ul{
 }
 #sideb{
    margin-top: 60px;
+   margin-left: 70px;
+   margin-right: 70px;
+}
+
+p{
+    font-size: 09px;
+}
+.blue_icon{
+    width: 200px;
+    margin-bottom: 24px;
+    line-height: 20px;
 }
