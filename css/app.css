@@ -57,5 +57,30 @@ h2 {
 
 .side1{
     padding-top: 60px;
+    text-decoration: none;
 
+}
+.side a{
+    list-style: none;
+}
+.icon1{
+    width: 24px;
+    height: 24px;
+    padding-left: ;
+    margin-left: 28px;
+
+}
+li a{
+   font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    word-spacing: 12px;
+
+}
+
+li{
+    text-decoration: none;
+    margin-bottom: 1px;
+}
+ul{
+  list-style: none;
 }
