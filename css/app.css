@@ -73,7 +73,6 @@ h2 {
 }
 li a{
    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 18px;
     word-spacing: 12px;
     color: #9ba0a4;
 
@@ -82,7 +81,10 @@ li a{
 li{
     text-decoration: none;
     margin-bottom: 1px;
+    font-size: 18px;
+    line-height: 60px;
 }
 ul{
   list-style: none;
+
 }
